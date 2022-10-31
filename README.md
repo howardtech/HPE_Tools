@@ -1,2 +1,2 @@
 # HPE_Tools
-Repo for all Tools I created for HPE Equipment 
+Project Repo for Tools for Synergy and Proliant Servers 
